@@ -1,0 +1,2 @@
+track type=bigWig name="myBigWig" description="PolII for Sample1 at time 0" visibility=full bigDataUrl=https://github.com/endrebak/git-lfs/raw/master/PolII.bw
+track type=bigWig name="myBigWig2" description="PolII for Sample2 at time 0" visibility=full bigDataUrl=https://github.com/endrebak/git-lfs/raw/master/PolII2.bw
