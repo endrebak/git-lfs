@@ -1,1 +1,4 @@
 PolII.bw filter=lfs diff=lfs merge=lfs -text
+PolII2.bw filter=lfs diff=lfs merge=lfs -text
+Exp1_0h_H3K27me3.bw filter=lfs diff=lfs merge=lfs -text
+Exp2_0h_H3K27me3.bw filter=lfs diff=lfs merge=lfs -text
